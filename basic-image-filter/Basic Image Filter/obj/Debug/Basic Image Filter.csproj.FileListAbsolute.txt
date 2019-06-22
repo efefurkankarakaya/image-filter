@@ -1,0 +1,9 @@
+C:\Users\2U\Desktop\aosp and android source\c#\Basic Image Filter\basic-image-filter\Basic Image Filter\bin\Debug\Basic Image Filter.exe.config
+C:\Users\2U\Desktop\aosp and android source\c#\Basic Image Filter\basic-image-filter\Basic Image Filter\bin\Debug\Basic Image Filter.exe
+C:\Users\2U\Desktop\aosp and android source\c#\Basic Image Filter\basic-image-filter\Basic Image Filter\bin\Debug\Basic Image Filter.pdb
+C:\Users\2U\Desktop\aosp and android source\c#\Basic Image Filter\basic-image-filter\Basic Image Filter\obj\Debug\Basic Image Filter.csprojAssemblyReference.cache
+C:\Users\2U\Desktop\aosp and android source\c#\Basic Image Filter\basic-image-filter\Basic Image Filter\obj\Debug\Basic_Image_Filter.Properties.Resources.resources
+C:\Users\2U\Desktop\aosp and android source\c#\Basic Image Filter\basic-image-filter\Basic Image Filter\obj\Debug\Basic Image Filter.csproj.GenerateResource.cache
+C:\Users\2U\Desktop\aosp and android source\c#\Basic Image Filter\basic-image-filter\Basic Image Filter\obj\Debug\Basic Image Filter.csproj.CoreCompileInputs.cache
+C:\Users\2U\Desktop\aosp and android source\c#\Basic Image Filter\basic-image-filter\Basic Image Filter\obj\Debug\Basic Image Filter.exe
+C:\Users\2U\Desktop\aosp and android source\c#\Basic Image Filter\basic-image-filter\Basic Image Filter\obj\Debug\Basic Image Filter.pdb
