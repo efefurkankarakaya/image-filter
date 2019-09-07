@@ -8,13 +8,13 @@ The program is filtering images with 7 different filters in a click.
 Yes, you can. Also it's one click to save.
 
 # Filters
-* Black and White
 * Red
 * Green
 * Blue
 * Red and Green
 * Red and Blue
 * Green and Blue
+* Black and White
 
 # How To Run
 * You can run this easily with which file's path is basic-image-filter/Basic Image Filter/bin/Debug/Basic Image Filter.exe
