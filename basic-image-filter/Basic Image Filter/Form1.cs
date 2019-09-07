@@ -36,8 +36,6 @@ namespace Basic_Image_Filter
                 imageFile = dialog.FileName;
                 image = new Bitmap(imageFile);
                 pictureBoxOriginal.Image = image;
-
-
             }
         }
         private void buttonFilter_Click(object sender, EventArgs e)
