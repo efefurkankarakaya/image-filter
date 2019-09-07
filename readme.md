@@ -5,7 +5,7 @@ This program written in C# with Visual Studio 2017.
 The program is filtering images with 7 different filters in a click.
 
 # Can I Save Filtered Images?
-Yes, you can. Also it's one click to save too.
+Yes, you can. Also it's one click to save.
 
 # Filters
 * Black and White
