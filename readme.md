@@ -1,5 +1,5 @@
 # About
-This program written in C# with Visual Studio 2017. 
+This program written with C# on Visual Studio 2017. 
 
 # What Does It Work?
 The program is filtering images with 7 different filters in a click.
